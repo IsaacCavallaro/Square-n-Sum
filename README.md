@@ -1,10 +1,10 @@
 # Link to codewars kata
 
-[https://www.codewars.com/kata/515e271a311df0350d00000f/train/javascript](https://www.codewars.com/kata/515e271a311df0350d00000f/train/javascript)
+[codeware kata](https://www.codewars.com/kata/515e271a311df0350d00000f/train/javascript)
 
 - This is a breakdown of my solution to the above code kata.
 - After completing the kata, I implemented some basic testing using jest.
-- Click [here](https://github.com/IsaacCavallaro/Square-n-Sum/blob/main/squareNsum.test.js) for the tests code.
+- Click [here](https://github.com/IsaacCavallaro/Square-n-Sum/blob/main/squareNsum.test.js) for the test code.
 
 # Square(n) Sum
 
